@@ -10,6 +10,7 @@ Below is a summary table of our recent blockchain protocol audits, detailing the
 
 | **Project**  | **Date**     | **Critical** | **High** | **Medium** | **Low** | **Informational** | **Report**        |
 |--------------|--------------|--------------|----------|------------|---------|-------------------|-------------------|
+|  Hedera  | Jan 2025     |  0           | 0        | 1          |  1      |  1                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Hedera_SCA.pdf)  |
 |  Ultrade Solana Cross Chain Testing  | Dec 2024     |  0           | 0        | 0          |  0      |  0                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Ultrade/Ultrade%20Solana%20%26%20CODEX%20Cross%20Chain%20Audit%20Report.pdf)  |
 |  Ultrade EVM Cross Chain Testing  | Dec 2024     |  0           | 0        | 0          |  0      |  0                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Ultrade/Ultrade%20EVM%20%26%20CODEX%20Cross%20Chain%20Report.pdf)  |
 |  Ultrade EVM  | Nov 2024     |  0           | 0        | 1          |  5      |  4                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Ultrade/Ultrade%20EVM%20Report.pdf)  |
@@ -25,5 +26,5 @@ Below is a summary table of our recent blockchain protocol audits, detailing the
 | Gibble       | March 2024   | 0            | 2        | 1          | 5       | 6                 | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Gibble.docx-2.pdf)  |
 | Tornado      | Feb 2024     | 0            | 0        | 0          | 4       | 2                 | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Interim%20-%20Tornado%20Blast%20Smart%20Contract%20Audit%20Report.docx.pdf)  |
 | Bitconnect   | Feb 2024     | 1            | 1        | 4          | 2       | 4                 | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Interim%20-%20Bitconnect%20Blast%20Smart%20Contract%20Audit%20Report.docx.pdf)  |
-| **Total**    | -            | **5**        | **31**   | **25**     | **48**  | **31**            |                   |
+| **Total**    | -            | **5**        | **31**   | **26**     | **49**  | **32**            |                   |
 
