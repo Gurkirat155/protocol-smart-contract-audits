@@ -10,7 +10,7 @@ Below is a summary table of our recent blockchain protocol audits, detailing the
 
 | **Project**  | **Date**     | **Critical** | **High** | **Medium** | **Low** | **Informational** | **Report**        |
 |--------------|--------------|--------------|----------|------------|---------|-------------------|-------------------|
-|  DZap  | June 2025     |  0           | 0        | 0          |  3      |  0                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/DZap%20Wallet%20.pdf)  |
+|  DZap  | June 2025     |  0           | 0        | 0          |  3      |  0                | [View Report](https://github.com/0xTeamAudits/AuditReports/blob/main/2025-Reports/2025-14-DZap.pdf)  |
 |  Hedera  | Jan 2025     |  0           | 0        | 1          |  1      |  1                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Hedera_SCA.pdf)  |
 |  Ultrade Solana Cross Chain Testing  | Dec 2024     |  0           | 0        | 0          |  0      |  0                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Ultrade/Ultrade%20Solana%20%26%20CODEX%20Cross%20Chain%20Audit%20Report.pdf)  |
 |  Ultrade EVM Cross Chain Testing  | Dec 2024     |  0           | 0        | 0          |  0      |  0                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Ultrade/Ultrade%20EVM%20%26%20CODEX%20Cross%20Chain%20Report.pdf)  |
