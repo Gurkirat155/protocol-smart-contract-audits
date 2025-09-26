@@ -10,6 +10,7 @@ Below is a summary table of our recent blockchain protocol audits, detailing the
 
 | **Project**  | **Date**     | **Critical** | **High** | **Medium** | **Low** | **Informational** | **Report**        |
 |--------------|--------------|--------------|----------|------------|---------|-------------------|-------------------|
+|  FunToken Staking (0xTeam)  | Sep 2025     |  0           | 2        | 1          |  9      |  3                | [View Report](https://github.com/0xTeamAudits/AuditReports/blob/main/2025-Reports/2025-15-FunToken.pdf)  |
 |  DZap  | June 2025     |  0           | 0        | 0          |  3      |  0                | [View Report](https://github.com/0xTeamAudits/AuditReports/blob/main/2025-Reports/2025-14-DZap.pdf)  |
 |  Hedera  | Jan 2025     |  0           | 0        | 1          |  1      |  1                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Hedera_SCA.pdf)  |
 |  Ultrade Solana Cross Chain Testing  | Dec 2024     |  0           | 0        | 0          |  0      |  0                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Ultrade/Ultrade%20Solana%20%26%20CODEX%20Cross%20Chain%20Audit%20Report.pdf)  |
@@ -28,5 +29,5 @@ Below is a summary table of our recent blockchain protocol audits, detailing the
 | Gibble       | March 2024   | 0            | 2        | 1          | 5       | 6                 | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Gibble.docx-2.pdf)  |
 | Tornado      | Feb 2024     | 0            | 0        | 0          | 4       | 2                 | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Interim%20-%20Tornado%20Blast%20Smart%20Contract%20Audit%20Report.docx.pdf)  |
 | Bitconnect   | Feb 2024     | 1            | 1        | 4          | 2       | 4                 | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Interim%20-%20Bitconnect%20Blast%20Smart%20Contract%20Audit%20Report.docx.pdf)  |
-| **Total**    | -            | **5**        | **31**   | **29**     | **56**  | **34**            |                   |
+| **Total**    | -            | **5**        | **33**   | **30**     | **65**  | **37**            |                   |
 
