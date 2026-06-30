@@ -19,7 +19,7 @@ Below is a summary table of our recent blockchain protocol audits, detailing the
 |  AUDM (Entersoft)  | Dec 2025      | 0        | 0          |  0      |  2                | 🔒  |
 |  Metagame SOL (0xTeam)  | Nov 2025     | 0        | 1          |  0      |  1                | Soon  |
 |  Metagame EVM (0xTeam)  | Nov 2025     | 3        | 0          |  2      |  7                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Final%20Audit%20Report%20-%20Metagame.pdf)  |
-|  DEFA (Entersoft)  | Oct 2025      | 4        | 6          |  4      |  8                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/DeltaPrime_SCA.pdf)  |
+|  DEFA (Entersoft)  | Oct 2025      | 4        | 6          |  4      |  8                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/DeFa_SCA%20Re-Audit.pdf)  |
 |  Amgi Studios Node Staking (0xTeam)  | Oct 2025     | 1        | 0          |  3      |  2                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/InitialAudit_Node%20Staking.pdf)  |
 |  FunToken Staking (0xTeam)  | Sep 2025     | 2        | 1          |  9      |  3                | [View Report](https://github.com/0xTeamAudits/AuditReports/blob/main/2025-Reports/2025-15-FunToken.pdf)  |
 |  DZap (0xTeam)  | June 2025     | 0        | 0          |  3      |  0                | [View Report](https://github.com/0xTeamAudits/AuditReports/blob/main/2025-Reports/2025-14-DZap.pdf)  |
