@@ -10,12 +10,13 @@ Below is a summary table of our recent blockchain protocol audits, detailing the
 
 | **Project**  | **Date**     | **High** | **Medium** | **Low** | **Informational** | **Report**        |
 |--------------|--------------|----------|------------|---------|-------------------|-------------------|
-|  Fun Token Multi Chain (0xTeam)  | April 2026     | 0        | 0          |  1      |  3                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/FuntToken_Initial_Report.pdf)  |
+|  DPMC (Entersoft)  | June 2026     | 2        | 2          |  3      |  8                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/DPMC%20lending%20platform_SCA.pdf)  |
+|  Fun Token Cross Chain 1 (0xTeam)  | April 2026     | 0        | 0          |  1      |  3                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/FunToken_Initial_Cross_Chain_1.pdf)  |
 |  Cash Vault (0xTeam)  | April 2026     | 0        | 0          |  1      |  2                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/CashVault_Initial_Report.pdf)  |
 |  Defa Fuzzing (Entersoft)  | March 2026      | 1        | 0          |  0      |  1                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Fuzz%20Testing%20-%20DeFa.pdf)  |
-| MPH MarketPlace (0xTeam)  | Jan 2026     | 1        | 0          |  2      |  0                | Soon  |
+| MPH MarketPlace (0xTeam)  | Jan 2026     | 1        | 0          |  2      |  0                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/MPH-Game-Marketplace.pdf)  |
 |  Amgi Studios Tiered Gamimg (0xTeam)  | Dec 2025     | 2        | 4          |  6      |  3                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/TieredGame.pdf)  |
-|  AUDM (Entersoft)  | Dec 2025      | 0        | 0          |  0      |  2                | Soon  |
+|  AUDM (Entersoft)  | Dec 2025      | 0        | 0          |  0      |  2                | 🔒  |
 |  Metagame SOL (0xTeam)  | Nov 2025     | 0        | 1          |  0      |  1                | Soon  |
 |  Metagame EVM (0xTeam)  | Nov 2025     | 3        | 0          |  2      |  7                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/Final%20Audit%20Report%20-%20Metagame.pdf)  |
 |  DEFA (Entersoft)  | Oct 2025      | 4        | 6          |  4      |  8                | [View Report](https://github.com/Gurkirat155/protocol-smart-contract-audits/blob/main/DeltaPrime_SCA.pdf)  |
